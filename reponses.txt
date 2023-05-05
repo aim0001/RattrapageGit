@@ -1,0 +1,4 @@
+a) La différence entre les commandes git pull et git fetch est que git fetch téléchargera le contenu du dépôt distant sans changer les modification apporter dans le dépôt local tandis que git push apportera ces modification automatiquement
+b)Pour annuler les modifications locales non validées dans Git on utilise la commande git reset
+c) Pour supprimer une branche distante dans git on utilise la commande git push --delete 
+d) On utilise la commande git log <le nom du fichier>
